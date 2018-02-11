@@ -1,9 +1,9 @@
 import React from 'react';
 
 export default class UserInput extends React.Component {
-	constructor(props) {
-		super(props);
-  }
+	// constructor(props) {
+	// 	super(props);
+  // }
 		onSubmit(event) {
 			event.preventDefault();
 			const text = this.input.value;
