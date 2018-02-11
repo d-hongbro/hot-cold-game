@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function GuessCount(props) {
-    const isPlural = props.guessCount !== 1;
+//    const isPlural = props.guessCount !== 1;
   //  const guessNoun = isPlural ? 'guesses' : 'guess';
 
     return (
